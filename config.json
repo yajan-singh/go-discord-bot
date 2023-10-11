@@ -1,0 +1,19 @@
+{
+  "variables": {
+    "monthly_price": "15.00",
+    "yearly_price": "150.00"
+  },
+  "database": {
+    "connection_string": ""
+  },
+  "discord": {
+    "token": "",
+    "server_id": "",
+    "membership_channel_id": "",
+    "member_role": "",
+    "limited_member_role": ""
+  },
+  "stripe": {
+    "api_key": ""
+  }
+}
